@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Jenvrain_Boutique.GestionPS">
+    <Position X="2.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIASAIAAQEIAAgACACAAAAACACgAECQAAUAAAAQIAE=</HashCode>
+      <FileName>GestionPS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD.MySQL.GestionBoutique">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIBEAAgAAIAAAAgAABAgCAAAAAAAQAAgAAAAAAAACAI=</HashCode>
+      <FileName>GestionBoutique.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestCategorie.GestionCategorie">
+    <Position X="6.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GestionCategorie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestClient.GestionClient">
+    <Position X="10.75" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAQAAAABAARAAAAAAQAAAABAAAAAAAAACQAA=</HashCode>
+      <FileName>GestionClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestCommande.GestionCommande">
+    <Position X="8.5" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIJIAAAAQAAAAAAAAQgAAAACAAAAAAAAgAIAAAAAAA=</HashCode>
+      <FileName>GestionCommande.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestFournisseur.GestionFournisseurs">
+    <Position X="4.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GestionFournisseurs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestProduits.GestionProduits">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAUAAAAAAQAAAAAAAAAAAABAgIAAAAAACQIA=</HashCode>
+      <FileName>GestionProduits.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
